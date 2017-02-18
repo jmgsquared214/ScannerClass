@@ -1,1 +1,2 @@
 # ScannerClass
+The code above creates a Scanner object named  and uses it to read a String and an int. It then closes the Scanner object because there is no more input to read, and prints to stdout using System.out.println(String)
